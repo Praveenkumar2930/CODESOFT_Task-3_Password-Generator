@@ -21,7 +21,7 @@ This Python script generates secure and random passwords based on user-defined c
 
 
    
-   ```bash
+   
 
 
 1. **Run the script**:
