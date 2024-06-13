@@ -96,4 +96,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact [your-email@example.com](mailto:your-praveenkumaru101@gmail.com).
+For any questions or suggestions, please open an issue or contact [your-email@praveenkumaru101@gmail.com](mailto:your-praveenkumaru101@gmail.com).
