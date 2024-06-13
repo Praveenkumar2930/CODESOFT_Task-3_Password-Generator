@@ -20,9 +20,9 @@ This Python script generates secure and random passwords based on user-defined c
 ## Usage
 
 1. **Clone the repository or download the script**:
-
+     ```
    ```bash
-  https://github.com/Praveenkumar2930?tab=repositories
+   ```  https://github.com/Praveenkumar2930?tab=repositories
    ```
 
 2. **Run the script**:
