@@ -19,19 +19,18 @@ This Python script generates secure and random passwords based on user-defined c
 
 ## Usage
 
-1. **Clone the repository or download the script**:
+
    
    ```bash
-   ```  https://github.com/Praveenkumar2930?tab=repositories
-   ```
 
-2. **Run the script**:
+
+1. **Run the script**:
 
    ```bash
    python password_generator.py
    ```
 
-3. **Follow the prompts** to generate a password based on your preferences.
+2. **Follow the prompts** to generate a password based on your preferences.
 
 ## Example
 
